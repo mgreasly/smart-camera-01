@@ -1,14 +1,14 @@
 {
-  "name": "smart-camera",
-  "short_name": "smart-camera",
+  "name": "smart-camera-01",
+  "short_name": "smart-camera-01",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
-  "theme_color": "#FD7507",
+  "theme_color": "#673ab8",
   "icons": [
     {
-      "src": "/assets/avanade-icon.png",
+      "src": "/assets/icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
